@@ -1,3 +1,3 @@
 # Dashboards
-Power BI Desktop
-This where ill post from time dashboards that im practicing or experimenting on.
+Power BI Desktop -
+This is where ill post from time to timedashboards that im practicing or experimenting on.
