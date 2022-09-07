@@ -1,3 +1,3 @@
 # Dashboards
 Power BI Desktop -
-This is where i'll post from time to time dashboards that i am practicing or experimenting on.
+This is where I'll post from time to time dashboards that I am practicing or experimenting on.
